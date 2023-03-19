@@ -77,6 +77,31 @@
         "spacing": 16,
         "sensitivity-radius": 20
       }
+    },
+    {
+      "uuid": "{921235DB-CF66-4E06-BCB4-A00DA552ED30}",
+      "name": "FiftyFifty",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          5002,
+          4998
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 16,
+        "sensitivity-radius": 20
+      }
     }
   ]
 }
