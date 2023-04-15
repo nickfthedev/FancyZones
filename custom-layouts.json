@@ -108,14 +108,14 @@
       "name": "MiddleBigLittle",
       "type": "canvas",
       "info": {
-        "ref-width": 2560,
-        "ref-height": 1392,
+        "ref-width": 1440,
+        "ref-height": 852,
         "zones": [
           {
-            "X": 283,
-            "Y": 156,
-            "width": 1917,
-            "height": 1208
+            "X": 97,
+            "Y": 52,
+            "width": 1227,
+            "height": 736
           }
         ],
         "sensitivity-radius": 20
@@ -126,20 +126,20 @@
       "name": "MiddleBigLittle",
       "type": "canvas",
       "info": {
-        "ref-width": 2560,
-        "ref-height": 1392,
+        "ref-width": 1440,
+        "ref-height": 852,
         "zones": [
           {
-            "X": 222,
-            "Y": 164,
-            "width": 1316,
-            "height": 1160
+            "X": 23,
+            "Y": 50,
+            "width": 806,
+            "height": 722
           },
           {
-            "X": 1566,
-            "Y": 164,
-            "width": 897,
-            "height": 1160
+            "X": 848,
+            "Y": 50,
+            "width": 557,
+            "height": 722
           }
         ],
         "sensitivity-radius": 20
