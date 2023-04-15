@@ -102,6 +102,48 @@
         "spacing": 16,
         "sensitivity-radius": 20
       }
+    },
+    {
+      "uuid": "{A192C065-2E4E-4D2E-B98A-20F1869C172B}",
+      "name": "MiddleBigLittle",
+      "type": "canvas",
+      "info": {
+        "ref-width": 2560,
+        "ref-height": 1392,
+        "zones": [
+          {
+            "X": 283,
+            "Y": 156,
+            "width": 1917,
+            "height": 1208
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{E41C6893-4333-41E2-BD25-F03E16E0C7CC}",
+      "name": "MiddleBigLittle",
+      "type": "canvas",
+      "info": {
+        "ref-width": 2560,
+        "ref-height": 1392,
+        "zones": [
+          {
+            "X": 222,
+            "Y": 164,
+            "width": 1316,
+            "height": 1160
+          },
+          {
+            "X": 1566,
+            "Y": 164,
+            "width": 897,
+            "height": 1160
+          }
+        ],
+        "sensitivity-radius": 20
+      }
     }
   ]
 }
